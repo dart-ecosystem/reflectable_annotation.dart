@@ -1,0 +1,17 @@
+name: reflectable_annotation
+description: >
+  This package provides a single annotation with all capabilities of Reflectable.dart
+version: 1.0.0
+homepage: https://github.com/dart-ecosystem/reflectable_annotation.dart
+author: Copydog <775150@qq.com>
+
+environment:
+  sdk: '>=2.4.0 <3.0.0'
+
+dependencies:
+  reflectable: ^2.2.0
+
+dev_dependencies:
+  pedantic: ^1.7.0
+  test: ^1.6.0
+  build_runner: ^1.7.1
