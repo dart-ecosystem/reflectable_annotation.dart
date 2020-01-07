@@ -1,3 +1,5 @@
-## 1.0.0
+## 1.0.1
+- Support reflect type
 
-- Initial version, created by Stagehand
+## 1.0.0
+- Initial version

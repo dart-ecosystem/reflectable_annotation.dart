@@ -9,6 +9,7 @@ class Reflected extends Reflectable {
           superclassQuantifyCapability,
           subtypeQuantifyCapability,
           typeAnnotationQuantifyCapability,
+          reflectedTypeCapability,
         );
 }
 
